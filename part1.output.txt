@@ -1,0 +1,105 @@
+You are Mohammad Nadim and you created 50 threads.
+
+This is philosopher 7.
+
+This is philosopher 8.
+
+This is philosopher 9.
+
+This is philosopher 10.
+
+This is philosopher 6.
+
+This is philosopher 11.
+
+This is philosopher 12.
+
+This is philosopher 13.
+
+This is philosopher 5.
+
+This is philosopher 14.
+
+This is philosopher 15.
+
+This is philosopher 16.
+
+This is philosopher 17.
+
+This is philosopher 18.
+
+This is philosopher 19.
+
+This is philosopher 20.
+
+This is philosopher 4.
+
+This is philosopher 21.
+
+This is philosopher 22.
+
+This is philosopher 23.
+
+This is philosopher 24.
+
+This is philosopher 25.
+
+This is philosopher 26.
+
+This is philosopher 27.
+
+This is philosopher 28.
+
+This is philosopher 29.
+
+This is philosopher 3.
+
+This is philosopher 31.
+
+This is philosopher 33.
+
+This is philosopher 35.
+
+This is philosopher 36.
+
+This is philosopher 30.
+
+This is philosopher 32.
+
+This is philosopher 34.
+
+This is philosopher 37.
+
+This is philosopher 38.
+
+This is philosopher 39.
+
+This is philosopher 40.
+
+This is philosopher 41.
+
+This is philosopher 42.
+
+This is philosopher 43.
+
+This is philosopher 44.
+
+This is philosopher 45.
+
+This is philosopher 46.
+
+This is philosopher 47.
+
+This is philosopher 48.
+
+This is philosopher 49.
+
+This is philosopher 50.
+
+This is philosopher 2.
+
+This is philosopher 1.
+
+50 threads have been joined successfully now.
+
+The pthread_join() function waits for the thread to terminate.  If that thread has already terminated, then pthread_join() returns immediately.

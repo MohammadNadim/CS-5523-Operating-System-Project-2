@@ -1,0 +1,100 @@
+Philosopher 5 is eating.
+Philosopher 16 is eating.
+Philosopher 4 is eating.
+Philosopher 20 is eating.
+Philosopher 22 is eating.
+Philosopher 26 is eating.
+Philosopher 28 is eating.
+Philosopher 30 is eating.
+Philosopher 37 is eating.
+Philosopher 39 is eating.
+Philosopher 45 is eating.
+Philosopher 35 is eating.
+Philosopher 42 is eating.
+Philosopher 31 is eating.
+Philosopher 44 is eating.
+Philosopher 48 is eating.
+Philosopher 9 is eating.
+Philosopher 10 is eating.
+Philosopher 16 put down the chopstick.
+Philosopher 17 is eating.
+Philosopher 18 is eating.
+Philosopher 23 is eating.
+Philosopher 24 is eating.
+Philosopher 46 is eating.
+Philosopher 49 is eating.
+Philosopher 38 is eating.
+Philosopher 48 put down the chopstick.
+Philosopher 8 is eating.
+Philosopher 7 is eating.
+Philosopher 6 is eating.
+Philosopher 11 is eating.
+Philosopher 12 is eating.
+Philosopher 14 is eating.
+Philosopher 15 is eating.
+Philosopher 4 put down the chopstick.
+Philosopher 19 is eating.
+Philosopher 21 is eating.
+Philosopher 25 is eating.
+Philosopher 3 is eating.
+Philosopher 27 is eating.
+Philosopher 29 is eating.
+Philosopher 30 put down the chopstick.
+Philosopher 47 is eating.
+Philosopher 33 is eating.
+Philosopher 50 is eating.
+Philosopher 36 is eating.
+Philosopher 32 is eating.
+Philosopher 40 is eating.
+Philosopher 42 put down the chopstick.
+Philosopher 2 is eating.
+Philosopher 1 is eating.
+Philosopher 10 put down the chopstick.
+Philosopher 11 put down the chopstick.
+Philosopher 13 is eating.
+Philosopher 14 put down the chopstick.
+Philosopher 23 put down the chopstick.
+Philosopher 34 is eating.
+Philosopher 41 is eating.
+Philosopher 43 is eating.
+Philosopher 45 put down the chopstick.
+Philosopher 39 put down the chopstick.
+Philosopher 46 put down the chopstick.
+Philosopher 49 put down the chopstick.
+Philosopher 1 put down the chopstick.
+Philosopher 9 put down the chopstick.
+Philosopher 5 put down the chopstick.
+Philosopher 21 put down the chopstick.
+Philosopher 22 put down the chopstick.
+Philosopher 26 put down the chopstick.
+Philosopher 3 put down the chopstick.
+Philosopher 28 put down the chopstick.
+Philosopher 29 put down the chopstick.
+Philosopher 44 put down the chopstick.
+Philosopher 36 put down the chopstick.
+Philosopher 35 put down the chopstick.
+Philosopher 43 put down the chopstick.
+Philosopher 31 put down the chopstick.
+Philosopher 8 put down the chopstick.
+Philosopher 6 put down the chopstick.
+Philosopher 12 put down the chopstick.
+Philosopher 13 put down the chopstick.
+Philosopher 15 put down the chopstick.
+Philosopher 17 put down the chopstick.
+Philosopher 18 put down the chopstick.
+Philosopher 19 put down the chopstick.
+Philosopher 20 put down the chopstick.
+Philosopher 24 put down the chopstick.
+Philosopher 25 put down the chopstick.
+Philosopher 34 put down the chopstick.
+Philosopher 38 put down the chopstick.
+Philosopher 32 put down the chopstick.
+Philosopher 41 put down the chopstick.
+Philosopher 37 put down the chopstick.
+Philosopher 47 put down the chopstick.
+Philosopher 2 put down the chopstick.
+Philosopher 7 put down the chopstick.
+Philosopher 27 put down the chopstick.
+Philosopher 50 put down the chopstick.
+Philosopher 40 put down the chopstick.
+Philosopher 33 put down the chopstick.
