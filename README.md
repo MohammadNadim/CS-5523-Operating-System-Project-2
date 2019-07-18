@@ -1,1 +1,1 @@
-# OS-Project2A
+# Dining Philosopher problem
